@@ -1,4 +1,4 @@
 # Digi-Pet-Videos
-## testing video swap
+## Testing Video Swap
 ### Group Members
 #### Joseph Fernandez & Shankavi Vicknswaran
